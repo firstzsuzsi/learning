@@ -1,0 +1,17 @@
+* Jobs
+
+* Requirements
+** Technical
+Python and its milieu (duh...)
+Managing a Linux environment
+A sophisticated understanding and use of Emacs
+One or more of the following:
+Relational databases
+Design thinking
+Machine learning
+Computational linguistics
+Natural Language Processing (NLP)
+advanced and semantic information search, extraction, induction, classification and exploration
+** Human
+Collaboration with people from a broad range of disciplines
+Great at solving problems, debugging, troubleshooting, designing and implementing solutions to complex technical issues
