@@ -33,3 +33,14 @@ How to make a killer interview - https://www.careerfaqs.com.au/careers/interview
 ** There is a thing called emloyee-ownership
 You get to have business decisions, and need to have an enterpreneurial mind. Now, if this is your first tech job, or first job altogether, this can end up in a catastrophe.
 You probably do not know anything about business, and if you do, you have very little idea on how to implement your knowledge, and if you do, then good luck being responsible for high end software AND not wrecking the firm under you (or at least not screw it up for yourself).
+* Guidelines
+Only use a resource when you need it. This is especially true for books. If you read a book to solve a problem, you will retain more information, because you will have a context in which to use it.
+* Emacs
+** Coding helpers
+*** Snippets
+*** Emacs addons
+** Expert text manipulation
+*** Seach and replace
+*** Project management
+*** Good key bindings (key chord mode?)
+* The project
