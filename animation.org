@@ -1,0 +1,65 @@
+* Jobs
+** Direct
+UI
+Product design
+VFX
+AI animation (NPC character behavior)
+Game development
+Graphic design
+Web design
+Illustration
+Motion graphics
+** Indirect
+Art director
+Exhibition designer
+Film director
+Film/video editor
+Multimedia specialis
+Production designer
+Production coordinator
+* Requirements
+** Technical
+Oddly enough being a generalist is a good direction to go (while keeping the focus on one thing)
+A degree (well, shit)
+Rendering
+Compositing
+Principles of motion, anticipation, dynamics, follow through, lighting
+Texture creation
+Modeling
+Photoshop (unfortunately)
+Maya (unfortunately)
+Digital drawing
+Shading
+Particle systems, physics, all that VFX jazz
+Being able to match an established style
+User-research methodologies (for UI, things like interviews, surveys, group discussions - actually the stuff we learn at HVLab)
+Figma, Sketch or similar design tool
+Understand user experience design, interaction design, UX design process
+Pixel perfect designs
+Asset creation
+Motion graphics
+Projection mapping
+Presentaion skills (the same as pitching)
+Scrum work technique
+Modern design concepts and techniques
+Procedural modeling (Sverchok nodes)
+Procedural animation (Animation nodes)
+** Human
+Effective communication
+Storytelling skills
+A strong presence in the network (blog, behance, competitions, festivals, challenges)
+Open mind (high tolerance as well as high sensitivity to criticism and ideas of others)
+Critical thinking, thinking through the craft as a major point of view (know what animation and effects are used for, what the purpose of the movie, where your place is in the workflow, and life in general as you)
+Self-drivenness, the ability to motivate yourself
+A good eye for what is excellent work
+Organization and time manangement skills
+Working well under deadlines
+Non smoker (LOL :D)
+Ability to adapt to new tools and systems and be technically minded (be on the lookout for tools)
+Ability to convincingly articulate your design rationale, both visually, orally, and in writing
+Strong problem solving and analytical abilities
+An eye for detail
+The flexibility to switch between several projects at once
+ABle to prioritize workload
+* Job application
+Demo reels should be between 1-3 minutes long

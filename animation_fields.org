@@ -1,0 +1,85 @@
+* ANIMATION
+** Physics
+** Drawing
+*** Anatomy
+*** Linework
+*** Space
+*** Perspective
+*** Motion
+** Mathematics
+*** Geometry
+*** Linear algebra
+** 3D
+*** Modeling
+**** Poligonal
+**** Sculpting
+***** dintopo
+***** masks
+**** Subd
+Build lowres, use subdiv
+**** Boloean operations
+Mainly hardsurface
+**** Metaballs
+**** Draw topology in orthographic projection
+**** Extract shapes
+***** Shrinkwrap
+Lowres, shrinwrap hires to it
+***** Retopology
+**** Splines
+***** make curve directly into object
+***** screw
+***** curve modifier
+***** skin modifier
+***** NURBS shapes
+**** Mesh fill
+Similar to curves, make mesh outline, fill it in with grid fill
+**** Vector graphics to 3D
+Spline tools
+**** Shadowbox
+Zbrush does it. Make projections, software creates the shape from them
+**** Displacement
+***** height map
+***** vector displacement
+**** Kitbashing
+***** take ready made models and build a new one out of them
+***** sculpt with the insert brushes
+zbrush, find alternative in blender, like snapping, boolean operations
+**** Photogrammetry
+Point cloud, reality capture, create height (or vector maps)
+**** Particles, force fields and metaballs
+Megacool :D
+**** Scatter particles
+Hair, rubble etc.
+**** CAD
+Computer Aided Design
+Fully math based stuff
+**** Camera sync and poly modeling
+Calibrate camera to fit image (set the camera tho the plane of the image), so the perspective fits and you just need to trace what you see.
+**** Physics simulation
+***** cloth
+***** self fracrure
+***** fluids
+Ocean modifier, fluid sim
+**** Math functons
+XYZ mesh
+**** Parametric modeling
+Like Sverchok
+**** Grammar based modeling
+Generative modeling
+**** Organic growth algorythms
+Ivy mesh in Blender
+DIffusion reactions
+**** Fractals
+Mandelbulber
+**** Dynamic paint
+Paint on an object with another one.
+**** Voxels
+**** Marching cubes
+Poligonize volumetric data with marching cubes algorythm
+**** Sculpting in VR
+**** AI
+NEural networks to generate from images etc.
+*** Rigging
+*** Aniamtion
+* Courses
+**
