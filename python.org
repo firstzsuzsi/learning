@@ -10,6 +10,7 @@ How a computer works (at least on the level I am working at)
 Python and its milieu (duh...)
 Managing a Linux environment
 A sophisticated understanding and use of Emacs
+Mathematics
 Industry-standard build tooling, including Docker, Consul, Jenkins, Ansible, and Github
 Agile development methodology
 Algorithms
@@ -22,15 +23,23 @@ Computational linguistics
 Natural Language Processing (NLP)
 Advanced and semantic information search, extraction, induction, classification and exploration
 Linux kernel, scheduler, memory management system, device drivers, and hardware architectures (for back-end)
+LaTeX for professional resumés and good looking pdf reports or teaching materials
 ** Human
+A strong presence in the linux and coding community (GitHub, blogs, StackExchange, StackOverflow etc.)
+Anything that demonstrates how you think and how you work (code on GitHub, blog post etc.)
+A rationale on why you code, and why you work the way you do
 Collaboration with people from a broad range of disciplines
 Strong written and verbal communication skills https://www.careerfaqs.com.au/news/news-and-views/excellent-communication-skills-what-does-it-really-mean
 Great at solving problems, debugging, troubleshooting, designing and implementing solutions to complex technical issues
 Understand user and system requirements (that is technical too)
 Exceptional analytic and critical thinking skills
 How to make a killer interview - https://www.careerfaqs.com.au/careers/interview-questions-and-tips/how-to-answer-interview-questions , https://www.careerfaqs.com.au/careers/interview-questions-and-tips/questions-to-ask-during-a-job-interview , https://www.careerfaqs.com.au/news/news-and-views/how-to-negotiate-your-salary-and-get-a-raise
+Organization and time management skills
+Critical thinking, thinking through the craft as a major point of view (know your place in the world and the pipeline
+Ability to adapt to new tools and systems and be technically minded (be on the lookout for tools and how to improve your workflow)
+Estimate the time and work effort required to complete a task
 * Risk factors at entry level
-** There is a thing called emloyee-ownership
+** There is a thing called employee-ownership
 You get to have business decisions, and need to have an enterpreneurial mind. Now, if this is your first tech job, or first job altogether, this can end up in a catastrophe.
 You probably do not know anything about business, and if you do, you have very little idea on how to implement your knowledge, and if you do, then good luck being responsible for high end software AND not wrecking the firm under you (or at least not screw it up for yourself).
 * Guidelines
@@ -43,4 +52,20 @@ Only use a resource when you need it. This is especially true for books. If you 
 *** Seach and replace
 *** Project management
 *** Good key bindings (key chord mode?)
-* The project
+* Git
+** The basic concept
+** The structure
+** The sintax
+* Mathematics
+* Python technical interview
+general tips and resources - https://medium.com/@ratulsaha/preparing-for-programming-interview-as-a-phd-student-with-python-5f8af8b40d5f
+Woah, this is really cool, a comprehensive learning plan, like mine, but an adult form :D - https://github.com/jwasham/coding-interview-university
+Recruiter tips - https://www.youtube.com/watch?v=qc1owf2-220
+
+* Coding challenges
+Usually you are given one on the interviewing process. Good for gamifying the mastering of complex concepts. Use the ones that are taken from job inerviews, not the ones for contests.
+https://coderbyte.com/
+* Learning tools for coding
+Overview - https://startupnextdoor.com/retaining-computer-science-knowledge/
+Anki cards - https://apps.ankiweb.net/
+Spaced repetition
